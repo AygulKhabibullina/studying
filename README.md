@@ -1,7 +1,7 @@
 # studying
 Studying and learning 
 
-1. Кредитный скоринг 
+#1. Кредитный скоринг 
 
 Перевод, разбор и комментари решения:
 https://www.kaggle.com/kabure/predicting-credit-risk-model-pipeline/notebook
